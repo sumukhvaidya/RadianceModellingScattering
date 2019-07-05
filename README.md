@@ -1,5 +1,5 @@
 # RadianceModellingScattering
-A Repository to model the radiance and scattering of light in a slab of material using the P3 approximation. 
+Python Code to model the radiance and scattering of light in a slab of material using the P3 approximation. 
 
 We simulate the scattering and propagation of light in a medium of rectangular slab geometry. We use the 
 radiative transfer equation to model the radiance using the P3 approximation for the modeeling of the solution of the equation.
